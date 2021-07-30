@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364011217402",
+    "project_id": "meganotes-30cdd",
+    "storage_bucket": "meganotes-30cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364011217402:android:50ce165ca496317765c443",
+        "android_client_info": {
+          "package_name": "com.ashii.meganotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364011217402-1jb4rmknk99rj313f5umqjrp0em24jjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKUnJY9p8rUC2cMJD7TTMt6IXflwLD7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364011217402-1jb4rmknk99rj313f5umqjrp0em24jjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
